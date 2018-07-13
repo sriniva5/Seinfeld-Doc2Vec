@@ -27,7 +27,7 @@ Ananya Srinivasan,
 
 <p>I entered the query "Kessler" into the search bar and it produced the following documents with relevant quotes. This was just a basic SQL filter() method</p>
 
-![alt text](https://github.cicd.spglobal.com/ANANYA-SRINIVASAN/Doc2Vec-Search-Engine/blob/Doc2Vec-Functionality/Images/ResponseExample.PNG)
+![alt text](https://github.com/sriniva5/Seinfeld-Doc2Vec/blob/master/Images/ResponseExample.PNG)
 
 <i>Document 90: Yeah. (Jerry sits down on the couch. Kessler walks over with his sandwich and looks at Jerry and uses expressions to ask Jerry to move the newspapers on the other side of the couch so he could site down. Kessler sits down next to him and starts turning over the pages of a magazine. Suddenly he spots an article he likes and tears it out. Jerry gives him a look as if to say, Do you mind?) Are you done with this?</i>
 
