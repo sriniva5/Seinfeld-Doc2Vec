@@ -1,0 +1,24 @@
+<doctype html>
+<head>
+	<title>Doc2Vec Recommendation</title>
+	<style>
+	</style>
+</head>
+
+<h2>Doc2Vec Recommendation</h2>
+
+{% from "_formhelpers.html" import render_field %}
+<form method=post>
+		{{ render_field(form.search) }}
+		<input type=submit value=Search>
+</form>
+
+{% with messages = get_flashed_messages() %}
+	{% if messages %}
+		<ul class=flashes>
+		{% for message in messages %}
+			<li>{{ message }}</li>
+		{% endfor %}
+		</ul>
+	{% endif %}
+{% endwith %}
